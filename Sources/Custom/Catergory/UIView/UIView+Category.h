@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  UIView+Category.h
 //  FGBase
 //
-//  Created by Ken Feng on 15/11/28.
+//  Created by Ken Feng on 15/11/30.
 //  Copyright © 2015年 vdaoyun. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface UIView (Category)
 
 @end
-
